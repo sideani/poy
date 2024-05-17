@@ -1,4 +1,3 @@
-
 // @ts-ignore
 import { connect } from 'cloudflare:sockets';
 
@@ -958,5 +957,3 @@ const cn_hostnames = [
 	'www.cntv.cn',              // CCTV - China Central Television official website
 	'www.secoo.com',            // Secoo - A Chinese luxury e-commerce platform
 ];
-worker.js
-Displaying worker.js.
